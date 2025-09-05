@@ -1,0 +1,358 @@
+
+.ilia-image {
+  border-radius: 20px;
+  width: 230px;
+  margin-right: 20px;
+  margin-left: 50px;
+}
+
+.heading {
+  font-family: "Lugrasimo";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 200%;
+  margin-left: 70px;
+  margin-bottom: 10px; 
+}
+
+.subtitle {
+  font-size: 120%;
+  font-family: "Lugrasimo";
+  font-weight: 400;
+  font-style: normal;
+  margin-top: 0; 
+  margin-left: 20px;
+}
+
+em {
+  font-style: normal;
+  color: red;
+  font-weight: bold;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+.Ilia-div {
+  width: 375px;
+  display: inline-block;
+  border: 1px solid red; 
+}
+
+.SC-div {
+  width: 375px;
+  height: 140px;
+  border: 1px solid white;
+  margin-top: 25px;
+}
+
+.Ilia-X {
+  height: 125px;
+  margin-top: 9px;
+}
+
+.Ilia-X:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+.Ilia-IG {
+  height: 80px;
+  margin-left: 20px;
+  margin-bottom: 25px;
+}
+
+.Ilia-IG:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+.Ilia-TikTok {
+  height: 110px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+.Ilia-TikTok:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+.Charles-div {
+  width: 375px;
+  height: 290px;
+  border: 1px solid white; 
+  position: absolute;
+  left: 500px;
+  top: 9px;
+}
+
+.charles-img {
+  width: 350px;
+  margin-left: 12px;
+  margin-top: 10px;
+}
+
+.charles-img:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+.Charles-text {
+  font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+  font-weight: bold;
+  margin-left: 50px;
+  font-size: 120%;
+}
+
+.Max-div {
+  width: 375px;
+  height: 290px;
+  border: 1px solid white; 
+  position: absolute;
+  left: 1000px;
+  top: 9px;
+}
+
+.max-img {
+  width: 350px;
+  height: 69%;
+  margin-left: 12px;
+  margin-top: 10px;
+}
+
+.max-img:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+.Max-text {
+  font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+  font-weight: bold;
+  margin-left: 50px;
+  font-size: 120%;
+}
+
+.Volk-div {
+  width: 375px;
+  height: 290px;      
+  border: 1px solid white;
+  position: absolute;    
+  left: 500px;          
+  top: 360px;           
+}
+
+.volk-img {
+  width: 350px;
+  height: 69%;
+  margin-left: 12px;
+  margin-top: 10px;
+}
+
+.volk-img:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+.Volk-text {
+  font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+  font-weight: bold;
+  margin-left: 15px;
+  font-size: 120%;
+}
+
+.Josh-div {
+  width: 375px;
+  height: 290px;      
+  border: 1px solid white;
+  position: absolute;    
+  left: 1000px;          
+  top: 360px;           
+}
+
+.josh-img {
+  width: 350px;
+  height: 69%;
+  margin-left: 12px;
+  margin-top: 10px;
+}
+
+.josh-img:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+.Josh-text {
+  font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+  font-weight: bold;
+  margin-left: 60px;
+  font-size: 120%;
+}
+
+.Bryce-div {
+  width: 375px;
+  height: 290px;      
+  border: 1px solid white;
+  position: absolute;              
+  top: 710px;           
+}
+
+.bryce-img {
+  width: 350px;
+  height: 69%;
+  margin-left: 12px;
+  margin-top: 10px;
+}
+
+.bryce-img:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+.Bryce-text {
+  font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+  font-weight: bold;
+  margin-left: 50px;
+  font-size: 120%;
+}
+
+.Jai-div {
+  width: 375px;
+  height: 290px;      
+  border: 1px solid white;
+  position: absolute;    
+  left: 500px;          
+  top: 710px;           
+}
+
+.jai-img {
+  width: 350px;
+  height: 69%;
+  margin-left: 12px;
+  margin-top: 10px;
+}
+
+.jai-img:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+.Jai-text {
+  font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+  font-weight: bold;
+  margin-left: 70px;
+  font-size: 120%;
+}
+
+.Ryan-div {
+  width: 375px;
+  height: 290px;      
+  border: 1px solid white;
+  position: absolute;    
+  left: 1000px;          
+  top: 710px;           
+}
+
+.ryan-img {
+  width: 350px;
+  height: 69%;
+  margin-left: 12px;
+  margin-top: 10px;
+}
+
+.ryan-img:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+.Ryan-text {
+  font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+  font-weight: bold;
+  margin-left: 75px;
+  font-size: 120%;
+}
+
+.Damon-div {
+  width: 375px;
+  height: 290px;      
+  border: 1px solid white;
+  position: absolute;             
+  top: 1060px;           
+}
+
+.damon-img {
+  width: 350px;
+  height: 69%;
+  margin-left: 12px;
+  margin-top: 10px;
+}
+
+.damon-img:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+.Damon-text {
+  font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+  font-weight: bold;
+  margin-left: 45px;
+  font-size: 120%;
+}
+
+.Zalal-div {
+  width: 375px;
+  height: 290px;      
+  border: 1px solid white;
+  position: absolute;    
+  left: 500px;          
+  top: 1060px;           
+}
+
+.zalal-img {
+  width: 350px;
+  height: 69%;
+  margin-left: 12px;
+  margin-top: 10px;
+}
+
+.zalal-img:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+.Zalal-text {
+  font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+  font-weight: bold;
+  margin-left: 60px;
+  font-size: 120%;
+}
+
+.Coming-div {
+  width: 375px;
+  height: 290px;      
+  border: 1px solid white;
+  position: absolute;    
+  left: 1000px;          
+  top: 1060px;           
+}
+
+.Coming-text {
+  font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+  font-weight: bold;
+  margin-left: 75px;
+  margin-top: 130px;
+  font-size: 30px;
+}
+
+a {
+  text-decoration: none;
+  outline: none;
+}
+a:focus {
+  outline: none;
+}
+a:active {
+  outline: none;
+}
